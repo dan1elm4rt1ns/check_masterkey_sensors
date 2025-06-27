@@ -26,8 +26,7 @@ This script serves as a custom SNMP check, connecting to the device on a non-sta
 
 1.  **Clone the Repository or Download the Script**
     ```bash
-    git clone [https://github.com/your-user/your-repo.git](https://github.com/your-user/your-repo.git)
-    # Or simply download the check_masterkey_sensors.py file
+    git clone [https://github.com/dan1elm4rt1ns/check_masterkey_sensors.git](https://github.com/dan1elm4rt1ns/check_masterkey_sensors.git)
     ```
 
 2.  **Copy the Plugin to the Nagios Libexec Directory**
